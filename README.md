@@ -19,3 +19,8 @@
 <br>
 
 <img src="./complejidad_algoritmica2.PNG">
+
+### Tips: 
+
+*Cuando vemos loops dentro de loops estamos, probablemente, frente a funciones de crecimiento cuadratico*
+
